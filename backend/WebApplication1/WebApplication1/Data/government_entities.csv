@@ -1,0 +1,5 @@
+GovernmentEntityId,Nombre,Direccion,NumeroTelefono,Email
+1,Ministerio de Salud Pública y Asistencia Social (MISPAS),"Av. Dr. Héctor Homero Hérnandez, Esq. Av. Tiradentes, Ens. La Fe Santo Domingo",(809) 541-3121,oai@salud.gob.do
+3,Ministerio de Trabajo,"Ave. Enrique Jiménez Moya # 5, Centro de los Héroes, La Feria, Santo Domingo, Distrito Nacional, R.D.",(809) 535-4404,info@mt.gob.do
+4,Ministerio de Cultura de la República Dominicana,"Dirección: Av. George Washington, Santo Domingo",(809) 221-4242,info@cultura.gob.do
+5,Ministerio de Relaciones Exteriores de la República Dominicana,"Puerta Principal:, Av. Independencia #752 Estancia, Calle Ing. Huascar Tejada, Santo Domingo",(809) 987-7001,relexteriores@mirex.gob.do
